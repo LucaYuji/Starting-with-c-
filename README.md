@@ -1,1 +1,3 @@
-# Starting-with-c-
+# Começando no c++
+
+Programas iniciais.
